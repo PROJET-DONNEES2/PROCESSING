@@ -10,7 +10,7 @@ def clean_data(filename, data, set):
     # data: the datas stored in a file
     # set: to define if the file contains adzuna or pole-emploi datas
     current_directory = os.getcwd()
-    clean_data_path = os.path.join(current_directory, "etl/cleaned-datas")
+    clean_data_path = os.path.join(current_directory, "cleaned-datas")
     if set == "adzuna":
         # Extract important datas
         results = data["results"]
