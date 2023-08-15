@@ -25,7 +25,8 @@ def download_files(aws_access_key, aws_secret_key, region_name, folder, prefix):
     current_directory = os.getcwd()
     destination_directory = folder
     destination_path = os.path.join(current_directory, destination_directory)
-    os.mkdir(destination_path)
+    if not os.path.exists(destination_path):
+        os.mkdir(destination_path)
 
     objects = my_bucket.objects.filter(Prefix=prefix)
     for obj in objects:
