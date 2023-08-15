@@ -1,0 +1,1602 @@
+{
+    "count": 69726,
+    "mean": 51308.14,
+    "results": [
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-06-29T01:53:15Z",
+            "salary_max": 60000,
+            "longitude": 2.47435,
+            "id": "4175453938",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MTc1NDUzOTM4In0.1P3A1ZZxoOis-cad5XuzkoDIcPXsc_XXZ27ZAC-uptw",
+            "title": "Expert R\u00e9seau/Wifi",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Val-de-Marne",
+                    "Nogent-sur-Marne",
+                    "Fontenay-sous-Bois"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Fontenay-sous-Bois, Nogent-sur-Marne"
+            },
+            "latitude": 48.85121,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4175453938?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=9EDA76FAAA4DDA8A32F49B71EA0C359BE70DB836",
+            "salary_min": 40000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SKILL EXPERT"
+            },
+            "salary_is_predicted": "0",
+            "description": "A la recherche d\u2019un nouveau challenge?Cette opportunit\u00e9 est faite pour vous Pour notre client, acteur majeur de l\u2019univers du luxe rejoignez l\u2019\u00e9quipe en charge des Infras R\u00e9seau. Principales Responsabilit\u00e9s Avec votre bin\u00f4me, vous aurez en charge le projet de refresh Meraki de nombreux sites en Europe.Vous vous occuperez de la gestion de projet de bout en bout incluant: Pour mener \u00e0 bien ces missions nous recherchons un ing\u00e9nieur R\u00e9seau avec au moins 3 ans d\u2019exp\u00e9rience et une exp\u00e9rience similair\u2026"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-07-17T11:25:50Z",
+            "salary_max": 60000,
+            "longitude": -0.8926,
+            "id": "4209881425",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIwOTg4MTQyNSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.ut9IuJtl-Mn0ErCmM4afcr0OhjrdFRg13p9UBTtinLo",
+            "title": "Ing\u00e9nieur Syst\u00e8me - Surveillance et Renseignement des Communications - F/H",
+            "location": {
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Maine-et-Loire",
+                    "Cholet"
+                ],
+                "display_name": "Cholet, Maine-et-Loire",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 46.99547,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4209881425?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=1ECDB0A672558C8007CAC0A39EB828D9BDD54920",
+            "salary_min": 40000,
+            "description": "Ing\u00e9nieur Syst\u00e8me - Surveillance et Renseignement des Communications - F/H page is loaded Ing\u00e9nieur Syst\u00e8me - Surveillance et Renseignement des Communications - F/H Apply locations Cholet time type Full time posted on Posted 2 Days Ago job requisition id R0205523 QUI SOMMES-NOUS ? \u00c0 Cholet, Thales con\u00e7oit, d\u00e9veloppe, int\u00e8gre, qualifie, industrialise, produit, d\u00e9ploie et maintient en condition op\u00e9rationnelle des \u00e9quipements de radiocommunications et des r\u00e9seaux tactiques militaires, des \u00e9quipeme\u2026",
+            "company": {
+                "display_name": "Thales Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4173539776?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=91B82ABF8E6A16B33AE98ADF70DE0F9D99647398",
+            "latitude": 48.93349,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Thales Group"
+            },
+            "salary_is_predicted": "0",
+            "description": "Ing\u00e9nieur d\u00e9veloppement logiciel C++ s\u00e9nior page is loaded Ing\u00e9nieur d\u00e9veloppement logiciel C++ s\u00e9nior Apply locations V\u00e9lizy-Villacoublay Gennevilliers time type Full time posted on Posted 4 Days Ago job requisition id R0217612 QUI SOMMES-NOUS ? Thales propose des syst\u00e8mes d\u2019information et de communication s\u00e9curis\u00e9s et interop\u00e9rables pour les forces arm\u00e9es, les forces de s\u00e9curit\u00e9 et les op\u00e9rateurs d\u2019importance vitale. Ces activit\u00e9s, qui regroupent radiocommunications, r\u00e9seaux, syst\u00e8mes de prot\u2026",
+            "salary_min": 60000,
+            "salary_max": 80000,
+            "created": "2023-06-27T19:58:45Z",
+            "longitude": 2.29927,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "display_name": "Gennevilliers, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Gennevilliers"
+                ]
+            },
+            "title": "Ing\u00e9nieur d\u00e9veloppement logiciel C++ s\u00e9nior",
+            "id": "4173539776",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3MzUzOTc3NiIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.6PQJM7F0b_uty7zRGRSkWsBn0LE6PooXtFMYpmhLJlw"
+        },
+        {
+            "salary_min": 40000,
+            "description": "Absolut Sensing is developing the technologies necessary to monitor, understand and ultimately predict global changes. Our first mission is to support the fight against climate change by providing a satellite-based methane monitoring service to allow regulators and emitters worldwide to assess and reduce their emissions. Join us and make a difference Absolut Sensing is a rapidly growing company with ambitions beyond this first mission. We are an equal opportunity employer, offering competitive \u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Absolut Sensing"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 43.60436,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4173966092?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=59079AC30801D36995006CCBF682E906E52E4572",
+            "id": "4173966092",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3Mzk2NjA5MiIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.r-DX3cNpmJYzgP75j1gsbSilbQn8rIVRolPuok9vikg",
+            "title": "SPACE SEGMENT PROJECT DELIVERY MANAGER",
+            "location": {
+                "display_name": "Toulouse, Haute-Garonne",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Occitanie",
+                    "Haute-Garonne",
+                    "Toulouse"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2023-06-28T01:09:14Z",
+            "salary_max": 60000,
+            "longitude": 1.44295
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4239644983?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=553444ECD8301423DF981506BFCB2C0C5E7C3BB1",
+            "latitude": 48.85826,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BNP PARIBAS"
+            },
+            "description": "Il existe 300 m\u00e9tiers diff\u00e9rents chez BNP Paribas. D\u00e9veloppement Commercial, Informatique, Expertise Financi\u00e8re, Audit ou encore Consulting, c'est autant de possibilit\u00e9s de tracer son parcours professionnel en France ou \u00e0 l'international  R\u00e9f\u00e9rent Cybers\u00e9curit\u00e9 Concr\u00e8tement votre quotidien ? La cybers\u00e9curit\u00e9 est un enjeu majeur pour vous ? En tant que r\u00e9f\u00e9rent Cybers\u00e9curit\u00e9, vous nous rejoindrez pour contribuer \u00e0 la d\u00e9tection des vuln\u00e9rabilit\u00e9s et \u00e0 la protection de nos actifs face aux menaces \u2026",
+            "longitude": 2.43684,
+            "created": "2023-08-03T07:20:01Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Seine-Saint-Denis",
+                    "Bobigny",
+                    "Montreuil"
+                ],
+                "display_name": "Montreuil, Bobigny",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "R\u00e9f\u00e9rent Cybers\u00e9curit\u00e9 H/F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjM5NjQ0OTgzIn0.VPy_-ANMUnoTzmafoClUUPJal6SrjDa_ahCv50YL2vA",
+            "id": "4239644983"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Externatic",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "L'offre Je suis Yvonnick, consultant en recrutement au sein d'Externatic, je te propose aujourd\u2019hui de d\u00e9couvrir l\u2019offre ci-dessous et d\u2019\u00e9changer ensemble : plut\u00f4t en visio ? Ou autour d\u2019un verre ? Je serai ravi de t'accompagner et de te pr\u00e9senter ce job plus en d\u00e9tail  L'entreprise et l'\u00e9quipe \u00e9diteur leader sur son march\u00e9 sp\u00e9cialiste des solutions num\u00e9riques pour les collectivit\u00e9s territoriales, dans les domaines de l\u2019urbanisme, du foncier, du patrimoine et du scolaire accompagne  de 60% de m\u2026",
+            "salary_min": 40000,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4236392342?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=F66AED32CC95E18BD711E0168531DC4DCA289BBE",
+            "latitude": 47.21684,
+            "title": "Responsable R&D  Editions logiciels / ETi H/F",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nantes, Loire-Atlantique",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes"
+                ]
+            },
+            "id": "4236392342",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIzNjM5MjM0MiIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.YrDhs--EsAoBq_V53aI5AnE4B9R4Jm3OQFyhTcuH-f0",
+            "salary_max": 60000,
+            "created": "2023-08-01T20:22:04Z",
+            "longitude": -1.55674,
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Staycation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Staycation, c\u2019est l\u2019app qui permet \u00e0 chacun de s\u2019\u00e9vader facilement du quotidien. Staycation cr\u00e9e des exp\u00e9riences cl\u00e9s en main dans les meilleurs h\u00f4tels autour de soi. Depuis sa cr\u00e9ation en 2017, Staycation a contribu\u00e9 \u00e0 transformer l\u2019h\u00f4tellerie en profondeur : convertir les h\u00f4tels en de v\u00e9ritables lieux de vie au coeur des villes et les connecter \u00e0 une toute nouvelle client\u00e8le locale. Staycation, c\u2019est \u00e0 pr\u00e9sent une communaut\u00e9 de plus de 2 millions d\u2019utilisateurs et 1000 h\u00f4tels dans 5 pays. Pre\u2026",
+            "salary_min": 60000,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4181296825?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=57377F5894EDF4EBC4147797E831EFC8009AA49B",
+            "latitude": 48.863839,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "title": "Fullstack Developer Node/React H/F (full remote possible)",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MTgxMjk2ODI1In0.NBAtAb-5g7IZHl07PQicfsbwBNca9bCU6okNoG48nRQ",
+            "id": "4181296825",
+            "salary_max": 80000,
+            "longitude": 2.344631,
+            "created": "2023-07-01T09:59:09Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4199601913?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=D25A5919DB544681E388EBA64ED1C06299D1D49B",
+            "latitude": 43.48965,
+            "company": {
+                "display_name": "Qualis Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": "Qualis est une soci\u00e9t\u00e9 d'int\u00e9rim et de recrutement sp\u00e9cialis\u00e9e dans le : Tertiaire (banque, assurance, comptabilit\u00e9, centres d'appel, immobilier, transports) Informatique (infrastructure et s\u00e9curit\u00e9, support aux utilisateurs, d\u00e9veloppement web) Industrie (Industrie et ing\u00e9nierie, BTP et t\u00e9l\u00e9coms) Nous vous accompagnons partout en France dans vos recrutements en CDI, CDD et travail temporaire. Nos consultants en recrutement sont des experts m\u00e9tiers capables d'identifier vos probl\u00e9matiques. Colla\u2026",
+            "longitude": 5.56894,
+            "created": "2023-07-11T07:57:57Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "title": "Technicien Informatique H/F",
+            "location": {
+                "display_name": "Aix-en-Provence-Sud-Ouest, Aix-en-Provence",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Bouches-du-Rh\u00f4ne",
+                    "Aix-en-Provence",
+                    "Aix-en-Provence-Sud-Ouest"
+                ]
+            },
+            "id": "4199601913",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE5OTYwMTkxMyIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.FMyg3-HSil3txeObZjA4sEXUy6nx4mI_vkW59XuBs6A"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4199596270?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=5F56FA2D3C4BB2C8AB883D2A11698A6203AAC2CA",
+            "latitude": 45.85511,
+            "salary_min": 32000,
+            "company": {
+                "display_name": "Utigroup",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": "Rejoindre UTIGroup, c'est rejoindre une Soci\u00e9t\u00e9 \u00e0 taille humaine qui investit sur l'accompagnement de ses Consultants, et o\u00f9 la prise de d\u00e9cision est rapide. Certifi\u00e9e ISO 9001/2015, UTIGroup a eu 35 ans en 2021. Solidit\u00e9 et transparence financi\u00e8re (notre soci\u00e9t\u00e9 est cot\u00e9e en Bourse depuis plus de 20 ans Notation ECO-Vadis exceptionnelle (73/100) : niveau PLATINIUM (RSE, \u00e9thique, social et achats responsables) UTIGroup respecte les textes internationaux, europ\u00e9ens et la l\u00e9gislation Fran\u00e7aise en\u2026",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-07-11T07:57:45Z",
+            "salary_max": 33000,
+            "longitude": 4.902705,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE5OTU5NjI3MCIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.TFkIyCyxmNqy6Gth6Jz_mMG9l55T8phWeo7MaR8P70A",
+            "id": "4199596270",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne"
+                ]
+            },
+            "title": "Ing\u00e9nieur Syst\u00e8me Windows Junior H/F"
+        },
+        {
+            "title": "Ing\u00e9nieur Software Robotique H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde",
+                    "Bordeaux",
+                    "Talence"
+                ],
+                "display_name": "Talence, Bordeaux",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4230202725",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjMwMjAyNzI1In0.QYW5CSwV3E_Zydjqb-HFZwBIK9Q797r4awUI2PctdN8",
+            "longitude": -0.57614,
+            "salary_max": 65000,
+            "created": "2023-07-29T05:48:10Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "company": {
+                "display_name": "Team.is",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": "Lanc\u00e9 en 2021, Team.is est une start-up de recrutement sp\u00e9cialis\u00e9e dans la chasse et le recrutement de profils IT, Digital, Ing\u00e9nierie & Supply Chain. Team.is c'est avant tout une entreprise \u00e0 taille humaine anim\u00e9e par la passion du recrutement  Team.is poss\u00e8de l'expertise et l'\u00e9nergie pour s'attaquer \u00e0 n'importe quel d\u00e9fi. Mais nous ne sommes pas des robots du recrutement. Nous sommes des consultants qui vivent et respirent ce que nous faisons  Nous sommes d\u00e9termin\u00e9s \u00e0 r\u00e9aliser le meilleur tra\u2026",
+            "salary_min": 45000,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4230202725?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=54512D95F5FA4E8BB9109A8E9F67E36A20F94C9D",
+            "latitude": 44.83737
+        },
+        {
+            "latitude": 48.3906,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4181756213?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=DBB34E9958303887713EC4B4E402E39E0A45317F",
+            "salary_min": 40000,
+            "description": "QUI SOMMES-NOUS ? Thales propose des syst\u00e8mes d\u2019information et de communication s\u00e9curis\u00e9s et interop\u00e9rables pour les forces arm\u00e9es, les forces de s\u00e9curit\u00e9 et les op\u00e9rateurs d\u2019importance vitale. Ces activit\u00e9s, qui regroupent radiocommunications, r\u00e9seaux, syst\u00e8mes de protection, syst\u00e8mes d\u2019information critiques et cybers\u00e9curit\u00e9, r\u00e9pondent aux besoins de march\u00e9s o\u00f9 l\u2019utilisation des nouvelles technologies num\u00e9riques est d\u00e9terminante. Thales intervient tout au long de la cha\u00eene de valeur, des \u00e9quip\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "R\u00e9servoir Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 60000,
+            "longitude": -4.4869,
+            "created": "2023-07-01T11:32:37Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE4MTc1NjIxMyIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.H6V1sdhTczhDXdfVSIx-QbX71Kq1UbriZqtjV9-dukQ",
+            "id": "4181756213",
+            "title": "Administrateur Syst\u00e8me et S\u00e9curit\u00e9 (H/F)",
+            "location": {
+                "display_name": "Brest, Finist\u00e8re",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Bretagne",
+                    "Finist\u00e8re",
+                    "Brest"
+                ]
+            }
+        },
+        {
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-06-28T01:09:29Z",
+            "salary_max": 60000,
+            "longitude": -1.68027,
+            "id": "4173968966",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3Mzk2ODk2NiIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.3NTF5IAlv2N-kXvolw6S4TpTH4UxgWfkbBTQ1kRnseI",
+            "location": {
+                "area": [
+                    "France",
+                    "Bretagne",
+                    "Ille-et-Vilaine",
+                    "Rennes"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rennes, Ille-et-Vilaine"
+            },
+            "title": "D\u00e9veloppeur(se) Fullstack senior (H-F)",
+            "latitude": 48.11176,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4173968966?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=F79DAA4C5CE5B5CA327F82AA3B5C75E143E9FD01",
+            "salary_min": 40000,
+            "company": {
+                "display_name": "Talents IT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": "Fullstack Job: D\u00e9veloppeur(se) Fullstack senior (H-F) L'\u00e9quipe Talents IT s'engage \u00e0 \u00eatre r\u00e9active et pr\u00e9sente pour r\u00e9pondre \u00e0 vos demandes. Nos consultants ont pour vocation de vous accompagner dans la recherche de vos futurs experts IT, en CDI et en CDD, quel que soit votre secteur d'activit\u00e9. Description du poste : Talents IT cabinet de recrutement national sp\u00e9cialis\u00e9 dans les m\u00e9tiers de l'IT et du Digital proche de ses clients et candidats est r\u00e9solument tourn\u00e9 vers l'humain. Notre \u00e9quipe s\u2026"
+        },
+        {
+            "id": "4185518202",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE4NTUxODIwMiIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.Ia-TWjjBFc0twkLYfBPgeWlj2aw9j6P0NoxRewx0Ye4",
+            "title": "Data Scientist Op\u00e9ration & Finance",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "salary_max": 80000,
+            "longitude": 2.344631,
+            "created": "2023-07-03T03:12:01Z",
+            "salary_min": 60000,
+            "description": "Data Scientist Op\u00e9ration & Finance page is loaded Data Scientist Op\u00e9ration & Finance Apply locations Paris time type Full time posted on Posted 9 Days Ago job requisition id JOBREQ00078812 Lieu de travail : Bas\u00e9 au 136 avenue Charles de Gaulle, Neuilly-sur-Seine, des d\u00e9placements sont \u00e0 pr\u00e9voir occasionnellement sur nos sites en Europe. Rattachement hi\u00e9rarchique : Head of Data Science & Advanced Analytics Business Services Platform Europe Contrat : CDI, temps plein. Votre r\u00f4le chez Chanel : La \u2026",
+            "company": {
+                "display_name": "Chanel, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 48.863839,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4185518202?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=37C112556FF88D2AE91A6BEA66E9FA0F563ED06B"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2023-06-28T01:10:40Z",
+            "salary_max": 60000,
+            "longitude": -0.8926,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3Mzk3ODk2NiIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.qdQwoafdHeeC1l-4TGIMpvYrML4SjJtPewQBMeWg5F8",
+            "id": "4173978966",
+            "location": {
+                "display_name": "Cholet, Maine-et-Loire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Maine-et-Loire",
+                    "Cholet"
+                ]
+            },
+            "title": "D\u00e9veloppeur Informatique PHP/Symfony",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4173978966?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=E80FC453F8ABAAB96F2755F730D4B3E083856FAD",
+            "latitude": 46.99547,
+            "salary_min": 40000,
+            "company": {
+                "display_name": "Nefer IT SARL",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": "Description du poste Le Cabinet de recrutement Manpower NANTES INFORMATIQUE recherche pour son client, un acteur du secteur des technologies de pointe, \u00e9lectrique et \u00e9lectronique, un D\u00e9veloppeur informatique PHP (H/F) Au sein de l'\u00e9quipe D\u00e9veloppement, vous aurez les missions suivantes: Intervenir dans votre domaine de comp\u00e9tences favoris selon vos comp\u00e9tences et aspirations professionnelles : d\u00e9veloppement, lead technique, pilotage de projet, Participer \u00e0 la conception et au d\u00e9veloppement de l\u2026"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Groupe Piment"
+            },
+            "description": "Le Groupe PIMENT et ses marques sp\u00e9cialis\u00e9es OPTIMA et KUBIC vous accompagnent tout au long de votre \u00e9volution professionnelle, en vous proposant des contrats en int\u00e9rim, CDD, CDI, assistance technique, freelance dans de nombreux secteurs d'activit\u00e9. Nous apportons une vision et des m\u00e9thodes de recrutement centr\u00e9es sur les qualit\u00e9s humaines. Pour cela, nous proposons \u00e0 nos clients des solutions de recrutement sur-mesure. Notre mission : trouver l'entreprise qui correspond \u00e0 vos attentes et inve\u2026",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4199599735?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=1ECF050C50E7C6F7F19175229FA343DD0E9E8093",
+            "latitude": 43.34929,
+            "location": {
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Bouches-du-Rh\u00f4ne",
+                    "Marseille",
+                    "Aubagne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Aubagne, Marseille"
+            },
+            "title": "Administrateur Reseau H/F",
+            "id": "4199599735",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE5OTU5OTczNSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.l63-Zrf7OldwcHEvSHRJU_kF6LV27IgtnvptdZMOnpU",
+            "created": "2023-07-11T07:57:52Z",
+            "longitude": 5.60465,
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4175372911?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=87E3964C4FADA94536B6808BB38282051D5B8D2A",
+            "latitude": 43.61026,
+            "salary_min": 40000,
+            "company": {
+                "display_name": "Urban Linker",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "En tant que d\u00e9veloppeur(se) Python/C++, dot\u00e9(e) d'une app\u00e9tence Linux, tu : seras en charge de la conception, du d\u00e9veloppement et de la validation des applications produit. t'occuperas du suivi du processus de d\u00e9veloppement participeras \u00e0 la maintenance des applications existantes d\u00e9velopperas des outils en interne travailleras en collaboration avec le service exploitation et le service technique La stack technique : Python, C++, environnement Linux, MySql, Git, tests unitaires, test d'int\u00e9grat\u2026",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-06-28T20:21:15Z",
+            "salary_max": 60000,
+            "longitude": 3.40124,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3NTM3MjkxMSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.VHXcfeA2u-Ck8VIVjAObqVFqDoWB1cnWwvMtWpfuUuw",
+            "id": "4175372911",
+            "title": "D\u00e9veloppeur python / c (h/f)",
+            "location": {
+                "area": [
+                    "France",
+                    "Occitanie",
+                    "H\u00e9rault",
+                    "Lod\u00e8ve",
+                    "Clermont-l'H\u00e9rault"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Clermont-l'H\u00e9rault, Lod\u00e8ve"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Metropole Rouen Normandie"
+            },
+            "description": "Un.e charg\u00e9.e de d\u00e9veloppement des r\u00e9seaux de chaleur - Rouen - M\u00e9tropole Rouen Normandie R\u00e9f\u00e9rence de l'offre : PB04333/E3DR.DTE.23.17-BL Type d'emploi : Fonctionnaire / CDI Date limite de r\u00e9ponse \u00e0 l'offre : 31/08/2023 Grade : Cadre d\u2019emplois des ing\u00e9nieurs territoriaux Au sein du service r\u00e9seaux de chaleur et en lien avec le responsable du service et la charg\u00e9e d\u2019unit\u00e9, vous pilotez le d\u00e9veloppement des r\u00e9seaux de chaleur sur le territoire en collaboration avec les diff\u00e9rentes directions de \u2026",
+            "salary_is_predicted": "0",
+            "salary_min": 40000,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4244354002?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=16849BBB1BD24EA607B8EC2656E10BE2B3842E0A",
+            "latitude": 49.44237,
+            "location": {
+                "area": [
+                    "France",
+                    "Normandie",
+                    "Seine-Maritime",
+                    "Rouen"
+                ],
+                "display_name": "Rouen, Seine-Maritime",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Un.e charg\u00e9.e de d\u00e9veloppement des r\u00e9seaux de chaleur",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjQ0MzU0MDAyIn0.QkPDIn-QXzH6zg4Tup4lksKmiTZm5kJvrZtJ86QKHOM",
+            "id": "4244354002",
+            "salary_max": 60000,
+            "longitude": 1.09849,
+            "created": "2023-08-05T12:36:35Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Informatis"
+            },
+            "salary_is_predicted": "0",
+            "description": "Dans le cadre d'un important avec un groupe leader dans son domaine, nous recherchons un Ing\u00e9nieur Infrastructure IT. Int\u00e9gr\u00e9 \u00e0 l'\u00e9quipe informatique et encadr\u00e9 par son responsable, vous \u00eates en charge de : G\u00e9rer l'ensemble de la configuration des syst\u00e8mes informatiques du site : veiller \u00e0 la fiabilit\u00e9 des syst\u00e8mes et \u00e0 la s\u00e9curit\u00e9 des donn\u00e9es, superviser la maintenance des mat\u00e9riels et logiciels d'exploitation et assurer l'installation des \u00e9quipements selon les standards du groupe. L'IT specia\u2026",
+            "latitude": 48.78283,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4224118997?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=583CB04A72C2F92D362AB80EE3C4DE848BF44B07",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjI0MTE4OTk3In0.iSDLgstBFqXkJzdJlFWq8vSMxVukVMBrWXq59L9DoM8",
+            "id": "4224118997",
+            "title": "Ingenieur Infrastructure IT H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Yvelines",
+                    "Versailles",
+                    "V\u00e9lizy-Villacoublay"
+                ],
+                "display_name": "V\u00e9lizy-Villacoublay, Versailles",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "created": "2023-07-26T07:18:49Z",
+            "longitude": 2.19001
+        },
+        {
+            "salary_max": 60000,
+            "longitude": -1.55674,
+            "created": "2023-06-28T01:09:47Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nantes, Loire-Atlantique",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes"
+                ]
+            },
+            "title": "D\u00e9veloppeur Fullstack (H/F) - Nantes",
+            "id": "4173972423",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3Mzk3MjQyMyIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.GVSAG-0ccsR_9VcSsuhT3zCQtpCHRW2wbdpPNg2HFjM",
+            "latitude": 47.21684,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4173972423?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=3D0A6D66CD0EACAE88FDFAC2F90BB058A335C465",
+            "description": "Fond\u00e9e en 1969, Cegedim est une entreprise innovante de technologies et de services sp\u00e9cialis\u00e9e dans la gestion des flux num\u00e9riques de l\u2019\u00e9cosyst\u00e8me sant\u00e9 et BtoB, ainsi que dans la conception de logiciels m\u00e9tiers destin\u00e9s aux professionnels de sant\u00e9 et de l\u2019assurance. Cegedim compte plus de 6000 collaborateurs dans plus de 10 pays et a r\u00e9alis\u00e9 un chiffre d\u2019affaires de 555,6 millions d\u2019euros en 2022. Cegedim est 6\u00e8me du truffle 100 en 2022 : https://www.truffle100.fr/2022.html et 9\u00e8me du top 250\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CEGEDIM"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 40000
+        },
+        {
+            "id": "4236406420",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIzNjQwNjQyMCIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.stOPECY7eg9oIfJZRTMgs_uJ1KnBoULJ1qwkrXFKdnw",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Puteaux"
+                ],
+                "display_name": "Puteaux, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "D\u00e9veloppeur fullstack PhP Senior (F/H)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "longitude": 2.23762,
+            "salary_max": 60000,
+            "created": "2023-08-01T20:25:32Z",
+            "salary_min": 40000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DiliTrust"
+            },
+            "description": "Qui est Dilitrust ? DiliTrust est LA solution SaaS de r\u00e9f\u00e9rence utilisant l\u2019IA pour accompagner les directions juridiques et la gouvernance d\u2019entreprise. Nous am\u00e9liorons le quotidien des juristes, des conseils et des dirigeants, en apportant des solutions s\u00e9curis\u00e9es qui acc\u00e9l\u00e8rent leur transformation digitale. La suite DiliTrust Governance r\u00e9v\u00e8le tout le savoir faire de nos clients, leur simplifie le quotidien avec des solutions technologiques avanc\u00e9es et un service \u201cpremium\u201d, au plus proche de\u2026",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4236406420?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=3C31EF136A99C257B8D0653520B0368D37282F5D",
+            "latitude": 48.88328
+        },
+        {
+            "latitude": 48.86023,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4216194747?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=61EC6C85042A46240BFC6A459584B4C522A0B8C8",
+            "description": "Pr\u00e9sentation Wonderbox est le leader europ\u00e9en des coffrets cadeaux et le sp\u00e9cialiste dans la vente d'activit\u00e9s de loisirs sur internet. Avec pr\u00e8s de 450 collaborateurs, et un chiffre d'affaires de 250 millions d'Euros, nos produits sont distribu\u00e9s en France, Espagne, Italie, Belgique, Suisse, Pays-Bas, Portugal, Danemark, Su\u00e8de, Norv\u00e8ge et USA. Notre mission ? R\u00e9aliser les r\u00eaves de nos clients et leur offrir des solutions originales de cadeaux cl\u00e9s en main dans l'univers des loisirs (Bien-\u00eatre,\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Wonderbox"
+            },
+            "salary_is_predicted": "0",
+            "created": "2023-07-21T06:24:24Z",
+            "longitude": 2.34107,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "1er Arrondissement"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "1er Arrondissement, Paris"
+            },
+            "title": "Chef de Projet Senior IT E-Commerce - CDI H/F",
+            "id": "4216194747",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjE2MTk0NzQ3In0.TzA_kigXlWjHDsAzRljDMGm1w3eunh0DQJ_mmhXuzok"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjA1NTAyNDY1In0.3vF4UcSQEM_NDCkU3OAxKoL5jr8gkDmrQ_YFGp74QYg",
+            "id": "4205502465",
+            "title": "Incident Manager - Lille H/F",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France",
+                "area": [
+                    "France"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "salary_max": 60000,
+            "created": "2023-07-14T11:24:54Z",
+            "salary_min": 40000,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Econocom"
+            },
+            "description": "L'activit\u00e9 Workplace Infra Innovation Services d'Econocom recrute un Incident Manager H/F pour accompagner les projets de transformation digitale d'un client grand compte dans la r\u00e9gion lilloise. Vous int\u00e9grez l'agence Nord Normandie pour participer \u00e0 des projets d'envergures chez un client grand compte. Au sein du p\u00f4le de comp\u00e9tences sp\u00e9cialis\u00e9e dans la gestion des processus et de la qualit\u00e9, vous \u00e9voluez sur les missions suivantes : Missions de Knowledge Manager : G\u00e9rer la base de connaissanc\u2026",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4205502465?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=081626A846EA83BCE670C13019754835066E7C56"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4214429199?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=36DB8742FAA5071D36141C409773498813F0F7E4",
+            "latitude": 45.85511,
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Live Campus",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "L'entreprise Il s'agit d'une entreprise qui \u00e9dite, h\u00e9berge et int\u00e8gre des solutions \u00e0 destination d'\u00e9tablissements publics et priv\u00e9s dans le domaine m\u00e9dical. Vous \u00eates en recherche d'un nouveau challenge professionnel apr\u00e8s une premi\u00e8re exp\u00e9rience significative en d\u00e9veloppement front-end ? Vous souhaitez contribuer \u00e0 votre fa\u00e7on au domaine de la sant\u00e9 ? Description du poste Rattach\u00e9.e au d\u00e9partement solutions (qui regroupe Dev  QA  Design  Produit  Infra), vous \u00eates int\u00e9gr\u00e9.e \u00e0 une \u00e9quipe hybri\u2026",
+            "longitude": 4.902705,
+            "created": "2023-07-20T07:52:41Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "title": "D\u00e9veloppeur Front-End - Alternance 69 H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes"
+            },
+            "id": "4214429199",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjE0NDI5MTk5In0.Z-wtWeeTy2qBbTH69x6G63J7SvoufNZ8cqGvxSHqBOw"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI1OTAxMTEwMSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.IKJwWq3cDNWy8tzyCMVYUv1-epvGw7_CI0az5cFvAgM",
+            "id": "4259011101",
+            "title": "Lead d\u00e9veloppeur Back-end IoT (F/H)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France",
+                "area": [
+                    "France"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-08-14T10:02:02Z",
+            "salary_max": 80000,
+            "salary_min": 60000,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Atraltech"
+            },
+            "description": "Atral Security fait partie du Groupe Atraltech, leader en technologies de s\u00e9curit\u00e9 anti-intrusion et anti-incendie professionnelles en Europe, pr\u00e9sent en France, en Allemagne et en Italie, dont deux usines situ\u00e9es en France : Chavanod (Haute-Savoie) et Villard Bonnot (Is\u00e8re). Le Groupe Atraltech compte plus de 350 collaborateurs dans le monde, r\u00e9investit 10% de son chiffre d\u2019affaires en R&D, et dispose d\u2019un r\u00e9el savoir-faire, avec plus de 50 ing\u00e9nieurs et techniciens d\u00e9di\u00e9es \u00e0 l\u2019\u00e9laboration de \u2026",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4259011101?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=AC7BF94E4F171DEBF79EC88F0B25983C1FA2400B"
+        },
+        {
+            "salary_min": 350,
+            "salary_is_predicted": "0",
+            "description": "Chez EyeTech Solutions, nous recherchons un Senior Java D\u00e9veloppeur talentueux et passionn\u00e9, ayant une exp\u00e9rience en conception et d\u00e9veloppement de logiciels pour des environnements distribu\u00e9s, en tirant parti des microservices et de l'architecture cloud. Le candidat id\u00e9al aura une solide compr\u00e9hension des motifs de conception asynchrones et ax\u00e9s sur les \u00e9v\u00e9nements, des environnements AWS et des m\u00e9thodologies agiles. En tant que Senior Java D\u00e9veloppeur, vous serez responsable de concevoir et d\u00e9\u2026",
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4236480836?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=19C205C593F96235EE3ADC6597449348CE6FE94D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjM2NDgwODM2In0.qCQysmtQbG_0_RJPP5s-RDSosFxXpyOzD5NjBJwkD7I",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "9\u00e8me Arrondissement"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "9\u00e8me Arrondissement, Paris"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_max": 450,
+            "company": {
+                "display_name": "EYETECH SOLUTIONS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 48.87284,
+            "id": "4236480836",
+            "title": "Senior Java D\u00e9veloppeur (IT)",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2023-08-01T21:34:52Z",
+            "longitude": 2.34043
+        },
+        {
+            "company": {
+                "display_name": "Page Personnel",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": "Page Personnel Ressources Humaines dispose d'une solide exp\u00e9rience pour accompagner ses clients dans leurs prochains recrutements de Techniciens, d'Agents de Ma\u00eetrise et de cadres de premier niveau. Nous intervenons dans tous les secteurs d'activit\u00e9, pour tous types d'entreprises et nos principaux recrutements concernent des postes de Gestionnaire de Paie, d'Assistant RH, de Charg\u00e9 de Recrutement. Nous recherchons pour notre client un Expert Fonctionnel SIRH et GTA. Poste bas\u00e9 sur la commune de\u2026",
+            "salary_min": 42000,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4243883229?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=2174D19839C3AA55AE3E926B081E6681F85C9B7D",
+            "latitude": 45.83561,
+            "title": "Expert Fonctionnel SIRH et Gta H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "Limonest"
+                ],
+                "display_name": "Limonest, Lyon",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4243883229",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjQzODgzMjI5In0.AIfO7_XBEO_gA6V2E7_-qn8VVYKPtz3G5PzIrcrn0XY",
+            "salary_max": 46000,
+            "longitude": 4.77147,
+            "created": "2023-08-05T06:06:49Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "salary_min": 60000,
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Lawrence Harvey Search & Selection",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "France / Freelance / Paris / Architecte / OMS / E-commerce / Salesforce Je recherche actuellement un Architecte sur la partie OMS pour une mission en Ile de France. Des connaissances Salesforce et/ou e-commerce sont un plus mais le besoin est sur la partie OMS Description : vous \u00eates le garant des solutions techniques, point de contact privil\u00e9gi\u00e9 pour toute nouvelle conception ou int\u00e9gration d'un nouveau service. L'architecte IT digital est le pivot entre les \u00e9quipes projets agiles et l'\u00e9quipe \u2026",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4205077956?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=164315FDC623689CAC4DD8951DBEED13EECD2DE5",
+            "latitude": 48.863839,
+            "id": "4205077956",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjA1MDc3OTU2In0.R6h9xD5WLOiUoq2_9TMKk_kpg4Qrl0Uohz__X3DKbf0",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Architecte OMS",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-07-14T08:23:44Z",
+            "salary_max": 80000,
+            "longitude": 2.344631
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-07-21T06:24:48Z",
+            "longitude": 4.77147,
+            "id": "4216197364",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjE2MTk3MzY0In0.8HAcM6rIXbsfgtgB6AbQ72z3wYoC6j-TLX9gQnnl8s0",
+            "location": {
+                "display_name": "Limonest, Lyon",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "Limonest"
+                ]
+            },
+            "title": "Developpeur C# H/F",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4216197364?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=E41A706293B7582AF9266A9F66A8AD0CEDB9FF25",
+            "latitude": 45.83561,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Akanea D\u00e9veloppement"
+            },
+            "description": "Description entreprise : Rejoindre AKANEA, c'est rejoindre une entreprise de 250 salari\u00e9s, filiale du groupe ISAGRI, avec un ambitieux projet de croissance, acteur majeur de ses march\u00e9s \u00e9quipant de tr\u00e8s belles r\u00e9f\u00e9rences avec une large gamme innovante et fiable. C'est aussi int\u00e9grer une entreprise certifi\u00e9e Great Place to Work, autrement dit o\u00f9 il fait bon travailler avec les valeurs humaines comme \u00e9l\u00e9ment cl\u00e9 de sa r\u00e9ussite (10% de croissance/an). L'\u00e9quipe dynamique et joviale d'AKANEA vous at\u2026"
+        },
+        {
+            "salary_max": 60000,
+            "longitude": -0.57614,
+            "created": "2023-06-28T01:09:13Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bordeaux, Gironde",
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde",
+                    "Bordeaux"
+                ]
+            },
+            "title": "Head Hunter / Manager(euse) de l'\u00e9quipe tech de notre bureau de Bordeaux - 60/80 k\u20ac",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3Mzk2NTc4NCIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.OPrU4JZJs2E4dHA0X6HJzpu1pCNBFsIzIbkPWq-cDyw",
+            "id": "4173965784",
+            "latitude": 44.83737,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4173965784?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=F75FFF5C858B90E102D972EF26E91ECB3F608C35",
+            "description": "Head Hunter / Manager(euse) de l'\u00e9quipe tech de notre bureau de Bordeaux - 60/80 k\u20ac Head Hunter / Manager(euse) de l'\u00e9quipe tech de notre bureau de Bordeaux - 60/80 k\u20ac Offre publi\u00e9e le 10-09-2021. Bordeaux Fonction Directeur de clientele Taille entreprise de 11 \u00e0 20 Teletravail partiel Exp\u00e9rience 6 \u00e0 10 ans Exp\u00e9rience Plus de 10 ans Nous recrutons l es \u00e9quipes de la French Tech (Blablacar, S\u00e9zane, Getaround, Payfit, ) et construisons le cabinet de chasse r\u00e9f\u00e9rent dans le recrutement des talents\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Data Recrutement"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 40000
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI0NDIwODM2MCIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.aQropuUGIwcDRaGvG0ZMWsoExLxDS1JwSNFUlJbLtH8",
+            "id": "4244208360",
+            "location": {
+                "display_name": "Boulogne-Billancourt, Hauts-de-Seine",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Boulogne-Billancourt"
+                ]
+            },
+            "title": "Chef de Projets MOA D365 F&O TMS - Client Final - D\u00e9ploiement ERP International H/F",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 80000,
+            "created": "2023-08-05T11:28:42Z",
+            "longitude": 2.24344,
+            "salary_min": 60000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Michael Page "
+            },
+            "description": "Chef de Projets MOA D365 F&O TMS - Client Final - D\u00e9ploiement ERP International H/F Leader de la distribution de produits pharmaceutiques \u00e0 l'\u00e9tranger ERP - Dynamics - 365 - F&O - WMS/TMS - International - D\u00e9ploiement Notre client est le leader de la distribution de produits pharmaceutiques \u00e0 l'\u00e9tranger. Dans le cadre d'un projet d'envergure de changement d'ERP, le client recherche un Chef Projets MOA MS Dynamics 365 F&O qui interviendra sur la partie TMS, dans le param\u00e9trage et le d\u00e9ploiement \u2026",
+            "salary_is_predicted": "0",
+            "latitude": 48.83381,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4244208360?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=43E14D3A17C9F30915D87BFDE2C943E753FFBD6B"
+        },
+        {
+            "latitude": 48.811332,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4199602268?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=3033C88B613A2EFD655F712A58EA21D89D5F16D5",
+            "company": {
+                "display_name": "HN Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": "HN est une Entreprise de Services Num\u00e9riques fond\u00e9e en 1983, compos\u00e9e de plus de 1650 collaborateurs. Nous accompagnons nos clients, des groupes institutionnels diversifi\u00e9s (banque, assurance, distribution, industrie, services), dans l'\u00e9volution permanente de leurs syst\u00e8mes d'informations. Nous sommes pr\u00e9sents en France (Paris, Lille, Nantes & Aix-en-Provence) et \u00e0 l'international (Bucarest, Madrid, Lisbonne, Luxembourg & New-York) Nos m\u00e9tiers : MOE, BI, MOA, Prod/infra sur plus de 130 clients \u2026",
+            "longitude": 2.351634,
+            "created": "2023-07-11T07:57:58Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ile-de-France, France"
+            },
+            "title": "Analyste Developpeur Mainframe H/F",
+            "id": "4199602268",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MTk5NjAyMjY4In0.ux-F9F5YDjSQOgx9uKHIV4AYBtOxOAxejUcLaMq-Si0"
+        },
+        {
+            "salary_min": 40000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Attineos"
+            },
+            "salary_is_predicted": "0",
+            "description": "Vous \u00eates d\u00e9veloppeur Java et on vous reconnait pour votre cr\u00e9ativit\u00e9 ? Aujourd\u2019hui, vous avez envie d\u2019int\u00e9grer une \u00e9quipe au sein de laquelle vous pourrez apprendre et partager vos connaissances ? Alors, nous avons la mission qu\u2019il vous faut  Nous recherchons un profil Ing\u00e9nieur Java Fullstack (70% Back et 30% Front) pour rejoindre la DSI de notre client dans le secteur Bancaire. En relation avec le leader technique et le chef de projet fonctionnel, vous prendrez en charge les diff\u00e9rents besoi\u2026",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4173977913?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=8F4185D803698C7A06C34FB9F0EB1A9935DFCC0F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3Mzk3NzkxMyIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.gkr4Q_aidJsG5Ngij5TghEhktJHu30o5l-uaT3NjW0w",
+            "id": "4173977913",
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "display_name": "France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Ing\u00e9nieur\u00b7e Java Fullstack H/F",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "created": "2023-06-28T01:10:35Z",
+            "salary_max": 60000
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4216186504?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=408B2C9071010865012C8D0F622A238FD6705F1C",
+            "latitude": 45.76086,
+            "description": "Qui sommes nous Euro-Information, filiale technologique de Cr\u00e9dit Mutuel Alliance F\u00e9d\u00e9rale, con\u00e7oit, r\u00e9alise, maintient et exploite un syst\u00e8me d'information commun utilis\u00e9 par le Groupe. Les activit\u00e9s de d\u00e9veloppement et de production informatique au niveau national et international sont assur\u00e9es par environ 4000 salari\u00e9s r\u00e9partis sur plusieurs sites g\u00e9ographiques au niveau national : Strasbourg, Nancy, Dijon, Orl\u00e9ans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes. Premi\u00e8re Banque \u00e0 adop\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EURO INFORMATION PRODUCTION"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 35000,
+            "salary_max": 60000,
+            "longitude": 4.75788,
+            "created": "2023-07-21T06:24:00Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Ing\u00e9nieur Syst\u00e8me M\u00e9triques de Performance H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "Tassin-la-Demi-Lune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Tassin-la-Demi-Lune, Lyon"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjE2MTg2NTA0In0.lQQ1bwHRXPzwNjAVPCtZFsuAxLs2IfK9_Y4HeBx8dQI",
+            "id": "4216186504"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4254633003?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=5739FEE66E369C75A6AAD3107DC0E083E9E73E18",
+            "latitude": 45.73251,
+            "company": {
+                "display_name": "Groupagora",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Vous voulez int\u00e9grer une PME en pleine croissance ? Une \u00e9quipe dynamique ? Des projets int\u00e9ressants ? Rejoignez les \u00e9quipes de notre client partenaire en tant que Chef de projet F/H, votre r\u00f4le sera de coordonner le d\u00e9ploiement de la solution logicielle chez les nouveaux clients. Vos responsabilit\u00e9s seront les suivantes : - R\u00e9aliser l'analyse et valider la reprise des donn\u00e9es en collaboration avec notre r\u00e9f\u00e9rent \"r\u00e9cup\u00e9ration de donn\u00e9es\" - Effectuer le param\u00e9trage des solutions - Assurer la for\u2026",
+            "salary_is_predicted": "0",
+            "salary_min": 35000,
+            "longitude": 4.99706,
+            "salary_max": 40000,
+            "created": "2023-08-11T06:45:11Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Chef de Projet Applicatif H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "D\u00e9cines-Charpieu"
+                ],
+                "display_name": "D\u00e9cines-Charpieu, Lyon",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4254633003",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjU0NjMzMDAzIn0.jy_LjSgzANZkkvwonvYKXMCl-DAZe1kIWNuaupBVUQ4"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France",
+                "area": [
+                    "France"
+                ]
+            },
+            "title": "IT Project Manager (Remote Brazil)",
+            "id": "4200462848",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIwMDQ2Mjg0OCIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.-e57vkeChr9xjgaYRxyZy5fDm9GmjPIm6akwevn1odQ",
+            "salary_max": 60000,
+            "created": "2023-07-11T19:53:49Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "description": "Job Description Rimini Street, Inc., is a fast-growing global leader delivering unified software support and services. We empower licensees of Oracle, SAP, IBM, Microsoft, Salesforce\u00ae, and other cloud and locally hosted enterprise software to extract more value from their investments, advance innovation, create competitive advantage, and fuel growth. With nearly 5000 clients served to date, we are the largest independent, full-stack ERP support and services company. Organizations who rely on ou\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rimini Street, Inc."
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 40000,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4200462848?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=91B5638E6B578497E17B01BF839FF75F60A52D27"
+        },
+        {
+            "longitude": -0.439388,
+            "created": "2023-07-21T06:23:58Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Normandie",
+                    "Calvados"
+                ],
+                "display_name": "Calvados, Normandie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Ingenieur Support Applicatif H/F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIxNjE4NTk5OSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.ua6DjTAICAChmBTo95oaYG62losShabmFe1rrrGqmAI",
+            "id": "4216185999",
+            "latitude": 49.11415,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4216185999?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=8B4DF8778AFED586D23446523DB11BA3CD2E1270",
+            "company": {
+                "display_name": "EM Normandie RH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "R\u00f4le/Finalit\u00e9 de l'emploi : - Identifier, analyser et corriger les diff\u00e9rents incidents signal\u00e9s par les utilisateurs afin de garantir un service de qualit\u00e9 aux utilisateurs Missions principales : - Identifier les anomalies et proposer des solutions de contournement - D\u00e9velopper des correctifs et les d\u00e9ployer en production - Communiquer et r\u00e9diger des comptes rendus \u00e0 propos des incidents - Animer et participer \u00e0 la gestion des crises - Mettre \u00e0 disposition des proc\u00e9dures d'assistance - Partici\u2026",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjM2Mzk3OTg5In0.0zlLbCFzqRcB0RT-oKH7bRg1VVNpOHtDke6QzcsBnMw",
+            "id": "4236397989",
+            "location": {
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Bouches-du-Rh\u00f4ne",
+                    "Marseille"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Marseille, Bouches-du-Rh\u00f4ne"
+            },
+            "title": "Cloud Architect (F/M/X)",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.34528,
+            "salary_max": 60000,
+            "created": "2023-08-01T20:23:11Z",
+            "salary_min": 40000,
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "SKEEPERS Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "SKEEPERS is an innovative group that is changing the world of customer experience. With a strong international ambition, SKEEPERS helps brands generate value by and for their customers. With its' one for all platform, SKEEPERS provides brands with a complete solution that allows them to prescriptively activate data collected from customer feedback for marketing purposes. Recognised as a high-growth group, SKEEPERS has already made it into the Next120 ranking one of the most innovative SaaS comp\u2026",
+            "latitude": 43.36309,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4236397989?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=FEEC5A8009040E9811D7FE87B54E9A9F4BEA4898"
+        },
+        {
+            "title": "Senior Data Scientist H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIyNDEyMDU2MSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.SWzocrmQSfFLE6iZ9_fvqTDgczSTlo0CTtxbXGu7F60",
+            "id": "4224120561",
+            "created": "2023-07-26T07:18:58Z",
+            "longitude": 2.344631,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About PriceHubble PriceHubble is a PropTech company, set to radically improve the understanding and transparency of real estate markets based on data-driven insights. We aggregate and analyse a wide variety of data, run big data analytics and use state-of-the art machine learning to generate stable and reliable valuations and predictive analytics for the real estate market. We are headquartered in Z\u00fcrich, with offices in Paris, Berlin, Hamburg, Vienna, Amsterdam and Tokyo. We work on internatio\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PriceHubble"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 48.863839,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4224120561?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=4871E022CE0C9091C86C3785026B99CB3ECC795B"
+        },
+        {
+            "salary_min": 55000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Utigroup"
+            },
+            "salary_is_predicted": "0",
+            "description": "Rejoindre UTIGroup, c'est rejoindre une Soci\u00e9t\u00e9 \u00e0 taille humaine qui investit sur l'accompagnement de ses Consultants, et o\u00f9 la prise de d\u00e9cision est rapide. Certifi\u00e9e ISO 9001/2015, UTIGroup a eu 35 ans en 2021. Solidit\u00e9 et transparence financi\u00e8re (notre soci\u00e9t\u00e9 est cot\u00e9e en Bourse depuis plus de 20 ans Notation ECO-Vadis exceptionnelle (73/100) : niveau PLATINIUM (RSE, \u00e9thique, social et achats responsables) UTIGroup respecte les textes internationaux, europ\u00e9ens et la l\u00e9gislation Fran\u00e7aise en\u2026",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4199606815?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=F699A5F30302D36A3EC7A7FA1631B2B5B13C9714",
+            "latitude": 45.85511,
+            "id": "4199606815",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE5OTYwNjgxNSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.O63dAvShdGzG1qzFs3nzWH9YyVxYSIIIOyhNUrsXqrg",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne"
+                ]
+            },
+            "title": "Architecte Azure H/F",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 4.902705,
+            "salary_max": 65000,
+            "created": "2023-07-11T07:58:09Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4230218069?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=D2512E58F2E9563BD8686BCD6C31D94FA7DE7CFA",
+            "latitude": 47.46943,
+            "description": "CNAM Participez \u00e0 la performance et la qualit\u00e9 d'un syst\u00e8me d'information de tout premier plan en France voire en Europe : 60 millions de b\u00e9n\u00e9ficiaires,  de 1500 informaticiens, 1 milliard de feuilles de soin \u00e9lectroniques par an, 80.000 utilisateurs, le site Ameli est le 3\u00e8me site internet de service public consult\u00e9 avec des t\u00e9l\u00e9 services pour les assur\u00e9s, les professionnels de sant\u00e9 et les entreprises, une capacit\u00e9 de stockage des donn\u00e9es de plus de 500 To Au sein de la DDSI, la direction du \u2026",
+            "company": {
+                "display_name": "Lasecurecrute.fr",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 40000,
+            "created": "2023-07-29T06:03:29Z",
+            "salary_max": 50000,
+            "longitude": -0.549,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Maine-et-Loire",
+                    "Angers",
+                    "Angers-Est"
+                ],
+                "display_name": "Angers-Est, Angers",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Product Owner Responsable d'Applications H/F",
+            "id": "4230218069",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjMwMjE4MDY5In0.6G1R9YfHXsqZ3Jl__IBdmMd9lQeYWMnBM5PrB0WGmZI"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4173973442?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=B2E3870B55E7BBF6A37E9004BBF2A194BCA6B7F0",
+            "salary_min": 40000,
+            "company": {
+                "display_name": "Apt Resources Private Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": ".Net Core Developer for IT Company in SURAT,GUJARAT Work Experience: 2.0 Year(s) To 5.0 Year(s) Function: IT Software- Application Programming / Maintenance Industry: IT-Software/Software Services Responsibilities: \u2022 Translate application storyboards and use cases into functional applications. \u2022 Design, build and maintain efficient, reusable, and reliable code. \u2022 Integrate data storage solutions. \u2022 Participate in requirements analysis. \u2022 Collaborate with internal teams to produce software desig\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2023-06-28T01:09:56Z",
+            "salary_max": 60000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MTczOTczNDQyIn0.N7grXPnRTNcFVqrFz5OK00_3f4bmV9kiBg8en2viOQU",
+            "id": "4173973442",
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "display_name": "France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": ".Net Core Developer for IT Company in SURAT,GUJARAT"
+        },
+        {
+            "title": "D\u00e9veloppeur Fullstack - Nantes H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes",
+                    "Rez\u00e9"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rez\u00e9, Nantes"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjI0MTIxMDMxIn0.zHE2Um_mqqrdJvIof3TXePqajQnoHCMRmz7byDns8M4",
+            "id": "4224121031",
+            "created": "2023-07-26T07:19:01Z",
+            "longitude": -1.55674,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Fond\u00e9e en 1969, Cegedim est une entreprise innovante de technologies et de services sp\u00e9cialis\u00e9e dans la gestion des flux num\u00e9riques de l'\u00e9cosyst\u00e8me sant\u00e9 et BtoB, ainsi que dans la conception de logiciels m\u00e9tiers destin\u00e9s aux professionnels de sant\u00e9 et de l'assurance. Cegedim compte plus de 6000 collaborateurs dans plus de 10 pays et a r\u00e9alis\u00e9 un chiffre d'affaires de 555, 6 millions d'Euros en 2022. Cegedim est 6\u00e8me du truffle 100 en 2022 : https://www.truffle100.fr/2022.html et 9\u00e8me du top 25\u2026",
+            "company": {
+                "display_name": "Cegedim",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "latitude": 47.21684,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4224121031?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=5723BF9F1DEC124A94FC3CD372668207CA7A4CEF"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/4244333764?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=3687FBE652AA7314C0C9DFC0445443A179B69493",
+            "salary_min": 40000,
+            "description": "Deine T\u00e4tigkeit Eigenverantwortliche Betreuung der BAUR IT Hard- & Software als Administrator:in Betreuung von Netzwerken, Windows Server- und Client-Systemen, Drucker sowie Windows-Betriebssystemen und Office-Standard-Programmen First-Level-Support f\u00fcr Mitarbeiter:innen Aktive Beteiligung an IT-Projekten Dein Profil Abgeschlossenes Informatikstudium Erste einschl\u00e4gige Berufserfahrung von Vorteil Gute Englischkenntnisse Selbstst\u00e4ndige und genaue Arbeitsweise Zuverl\u00e4ssige und kommunikative Pers\u00f6\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Oehweb"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-08-05T12:30:19Z",
+            "salary_max": 60000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI0NDMzMzc2NCIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.mJ5Lf_J8CaGEB29lgDjbeh35podW1LJN4UftIgTtx4k",
+            "id": "4244333764",
+            "title": "IT-Administrator:in & User Support (m/w/d)",
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "display_name": "France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "created": "2023-08-12T18:25:13Z",
+            "salary_max": 45000,
+            "longitude": 3.84676,
+            "id": "4257091355",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI1NzA5MTM1NSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.C6DqDKov3Rh0xJnP3sGKeZN2dx3VL42E9fNBvPhJg8A",
+            "title": "D\u00e9veloppeurs Front Angular H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Occitanie",
+                    "H\u00e9rault",
+                    "Montpellier",
+                    "Montpellier 8e Canton"
+                ],
+                "display_name": "Montpellier 8e Canton, Montpellier",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/4257091355?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=ECC657A401CE15B718BE7417665EC8D3C926A14C",
+            "latitude": 43.5915,
+            "salary_min": 40000,
+            "description": "Expectra, leader en France de l'int\u00e9rim sp\u00e9cialis\u00e9 et du recrutement en CDI de cadres et agents de ma\u00eetrise. Les consultants du D\u00e9partement Informatique & T\u00e9l\u00e9coms vous proposent des opportunit\u00e9s de carri\u00e8re. Nous recherchons pour le compte de notre client un d\u00e9veloppeur FRONT END ANGULAR F/H en CDI. En m\u00e9thode Agile, vous int\u00e9grer une \u00e9quipe d'experts qui interviennent et propose une expertise en d\u00e9veloppement front end, mobile dans un environnement angular. L'entreprise dispose d'un vernis te\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Expectra"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIxNDQzMzY5MyIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.TcSdoCj4CG6EqYpEenoiCwMSzJhUfUyxs_zQ0PHwi9g",
+            "id": "4214433693",
+            "location": {
+                "area": [
+                    "France",
+                    "Bretagne",
+                    "Ille-et-Vilaine"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ille-et-Vilaine, Bretagne"
+            },
+            "title": "D\u00e9veloppeur Full Stack H/F",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-07-20T07:53:23Z",
+            "longitude": -1.727553,
+            "company": {
+                "display_name": "Additi",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "description": "Additi assure le d\u00e9veloppement des activit\u00e9s pub et num\u00e9riques du Groupe Ouest France. Notre entreprise 100% Made in Breizh r\u00e9unit plus de 700 collaborateurs et f\u00e9d\u00e8re les savoir-faire de diff\u00e9rents sites d'annonces, r\u00e9gies publicitaires, radios, affichages et agence conseil. Tu es attir\u00e9.e par le monde des m\u00e9dias, de la pub et du num\u00e9rique ? Nous recherchons notre futur\u00b7e d\u00e9veloppeur.se Fullstack H/F Tu int\u00e9greras la Business Unit Ouest France Emploi qui commercialise nos solutions SaaS de rec\u2026",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4214433693?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=2C6F2270037D36CB26538B4275C01BE76AC17F44",
+            "latitude": 48.20187
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Manpower"
+            },
+            "salary_is_predicted": "0",
+            "description": "Et si on vous proposait de faire le tour du monde ? Rejoignez la Marine Nationale et d\u00e9couvrez nos forces navales, a\u00e9ronautiques navales et sous-marines ? En mer comme \u00e0 terre, c'est toute une expertise?qui s'offre \u00e0 vous.?Int\u00e9grez un environnement exceptionnel, unique, qui \u00e9volue en permanence.? Apr\u00e8s une formation?initiale de 4 mois pour acc\u00e9der au grade d'Officier marinier, vous?rejoignez une \u00e9cole de sp\u00e9cialit\u00e9 en vue d'\u00eatre Technicien Syst\u00e8mes d'Information et de Communication H/F et ainsi\u2026",
+            "latitude": 43.328087,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4243883144?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=D9F6589913D8F97F13ECC2700F173CE730954255",
+            "id": "4243883144",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjQzODgzMTQ0In0.w3IwiRcu0tvnacMSqveLJLOU1JRwI49vz0Nw-XvgaR8",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine",
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Pyr\u00e9n\u00e9es-Atlantiques"
+                ]
+            },
+            "title": "Technicien des Syst\u00e8mes Information et T\u00e9l\u00e9communication H/F",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": -0.817817,
+            "created": "2023-08-05T06:06:47Z"
+        },
+        {
+            "latitude": 48.863839,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Groupe Aptenia"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "longitude": 2.344631,
+            "created": "2023-08-10T21:47:57Z",
+            "id": "4254015883",
+            "title": "architecte informatique NEXTHINK (IT)",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4254015883?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=7DEEE47D53FE015D0F579CDEA843B292ED0E00E9",
+            "contract_type": "contract",
+            "salary_min": 500,
+            "description": "Mise en place de l\u2019infrastructure de monitoring (Nexthink) pour collecter des m\u00e9triques pertinentes sur des centaines d\u2019activit\u00e9s et de propri\u00e9t\u00e9s des postes de travail pour aider l\u2019ensemble des intervenants \u00e0 cerner un probl\u00e8me de l\u2019infrastructure et y rem\u00e9dier. Mission(s) et R\u00e9alisations : R\u00e9daction de DAS (Dossier Architecture de S\u00e9curit\u00e9) Sp\u00e9cifier et d\u00e9terminer le syst\u00e8me de cotation unique ou multi-cotation selon les profils techniques Analyses sur les \u00e9changes avec les responsables appli\u2026",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_max": 750,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjU0MDE1ODgzIn0.zIrB7DWpYXI8ZPzv_OctJtgn4gIxfmG9UURoU12wFqk",
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            }
+        },
+        {
+            "latitude": 47.90139,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4216302507?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=D757959BF3210B9204EF1ACFD4229769E931FD50",
+            "description": "Get The Future You Want Envie de changer de carri\u00e8re et/ou de cadre de vie ? Vous y pensez fortement mais vous n'osez pas franchir le pas ? Et si Orl\u00e9ans \u00e9tait la solution ? Allons faire un petit tour du c\u00f4t\u00e9 de cette ville tant pl\u00e9biscit\u00e9e pour son art de vivre que pour son patrimoine culturel  Orl\u00e9ans est un petit coin de campagne situ\u00e9 \u00e0 seulement 1h30 de Paris en train. C'est une ville qui pr\u00e9sente une tr\u00e8s grande richesse historique et patrimoniale (avec sa figure embl\u00e9matique Jeanne d'Arc\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Capgemini"
+            },
+            "salary_is_predicted": "0",
+            "created": "2023-07-21T07:27:59Z",
+            "longitude": 1.90398,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "title": "D\u00e9veloppeur Full Stack Confirm\u00e9 Orl\u00e9ans H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Centre",
+                    "Loiret",
+                    "Orl\u00e9ans",
+                    "Saint-Jean-le-Blanc"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Saint-Jean-le-Blanc, Orl\u00e9ans"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVW92N1NaUTY3aEdKSkc0ajBic3hfQSIsImkiOiI0MjE2MzAyNTA3In0.LnbPEl8d7raOgk82x__kFDud1wsRyVci7x-y4fnbScQ",
+            "id": "4216302507"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE5Mzk0NjIxNSIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.6pPKc28TUQTdJboq9nOHawhTnoKGOGUhhlJumbhk7po",
+            "id": "4193946215",
+            "title": "Ing\u00e9nieur d'infrastructure d'exploitation Onshore Unix/Linux H/F",
+            "location": {
+                "display_name": "Versailles, Yvelines",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Yvelines",
+                    "Versailles"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "salary_max": 80000,
+            "created": "2023-07-07T08:52:55Z",
+            "salary_min": 60000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cr\u00e9dit Agricole Group"
+            },
+            "salary_is_predicted": "0",
+            "description": "Cr\u00e9dit Agricole Group Infrastructure Platform, CA-GIP, entit\u00e9 de production informatique du groupe Cr\u00e9dit Agricole recherche un(e) ing\u00e9nieur d'infrastructure d'exploitation Onshore Unix/Linux. Contexte : Le Socle Open a pour vocation de porter la construction et le maintien en condition op\u00e9rationnelle des plates-formes technologiques du monde Open en garantissant au quotidien la qualit\u00e9 de service. Il est en charge de l\u2019optimisation technique et \u00e9conomique, en particulier via la mutualisation, \u2026",
+            "redirect_url": "https://www.adzuna.fr/land/ad/4193946215?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=ED2DBA89DF2E1DE967E5C1FCE9ABF737F98B20F8"
+        },
+        {
+            "title": "CDI - Ing\u00e9nieur Dev H/F",
+            "location": {
+                "display_name": "Levallois-Perret, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Levallois-Perret"
+                ]
+            },
+            "id": "4222559440",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDIyMjU1OTQ0MCIsInMiOiJVb3Y3U1pRNjdoR0pKRzRqMGJzeF9BIn0.jidxZpW_n3LZgZzvhGBVTt5vXwsCQvXdQTNa4LInYl0",
+            "created": "2023-07-25T08:37:21Z",
+            "longitude": 2.28834,
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "M\u00e9diam\u00e9trie",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Qui sont-ils ? M\u00e9diam\u00e9trie est fi\u00e8re de ses 680 collaborateurs qui contribuent chaque jour \u00e0 la mesure de l'audience TV, Radio et Internet. V\u00e9ritable r\u00e9f\u00e9rent dans l'univers des m\u00e9dias, ils r\u00e9alisent des \u00e9tudes m\u00e9dias et accompagnent au quotidien plus de 1000 clients dans leur transformation num\u00e9rique. Pr\u00e9sent depuis 1985 et leader des \u00e9tudes m\u00e9dias, ils observent, mesurent et analysent les comportements du public et les tendances du march\u00e9 : streaming, catch-up, diff\u00e9r\u00e9, 4 \u00e9crans. La connexion\u2026",
+            "salary_is_predicted": "0",
+            "latitude": 48.89434,
+            "redirect_url": "https://www.adzuna.fr/land/ad/4222559440?se=Uov7SZQ67hGJJG4j0bsx_A&utm_medium=api&utm_source=2774a4cd&v=977B20C0F441F4C0BA4D8F27B80C3FC1F076B42C"
+        }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}
