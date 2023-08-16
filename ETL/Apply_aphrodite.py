@@ -26,5 +26,3 @@ def apply_aphrodite():
                 data = json.load(file)
                 clean_data(filename.split(".")[0], data, 'pole')
 
-if __name__ == '__main__':
-    apply_aphrodite()
