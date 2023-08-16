@@ -44,7 +44,7 @@ def clean_data(filename, data, set):
         df = pd.json_normalize(results)
 
         # Drop not important columns
-        selected_columns = ['id', 'typeContrat', 'dateCreation', 'intitule', 'appellationlibelle']
+        selected_columns = ['id', 'typeContrat', 'dateCreation', 'intitule']
 
         df = df[selected_columns].rename(
             columns={"typeContrat": "contract_type", "dateCreation": "created", "intitule": "title"})
@@ -60,4 +60,5 @@ def clean_data(filename, data, set):
         cleaned_file_path = os.path.join(pole_emploi_clean_data_path, cleaned_filename)
 
         # Store cleaned datas into a new file
-        df.to_csv(cleaned_file_path,index=False)
+        df.to_csv(cleaned_file_path, index=False)
+
