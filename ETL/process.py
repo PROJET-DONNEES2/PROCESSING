@@ -9,6 +9,25 @@ from Apply_aphrodite import apply_aphrodite
 from Hera_Alpha import append_same_sources_df
 from Hera_Beta import append_all
 
+
+def download_adzuna_files(**kwargs):
+    aws_access_key = Variable.get("AWS_ACCESS_KEY")
+    aws_secret_key = Variable.get("AWS_SECRET_KEY")
+    region_name = Variable.get("AWS_REGION")
+
+    download_files(aws_access_key=aws_access_key, aws_secret_key=aws_secret_key,
+                   region_name=region_name, folder="adzuna", prefix="adzuna")
+
+
+def download_pole_emploi_files(**kwargs):
+    aws_access_key = Variable.get("AWS_ACCESS_KEY")
+    aws_secret_key = Variable.get("AWS_SECRET_KEY")
+    region_name = Variable.get("AWS_REGION")
+
+    download_files(aws_access_key=aws_access_key, aws_secret_key=aws_secret_key,
+                   region_name=region_name, folder="pole-emploi", prefix="/tmp")
+
+
 with DAG(
     "Job-analysis",
     default_args={
@@ -25,14 +44,9 @@ with DAG(
     catchup=False,
     tags=["env=all"],
 ) as dag:
-    aws_access_key = Variable.get("AWS_ACCESS_KEY")
-    aws_secret_key = Variable.get("AWS_SECRET_KEY")
-    region_name = Variable.get("AWS_REGION")
-
     t1 = PythonOperator(
         task_id="Download_Adzuna_datas",
-        python_callable=download_files(aws_access_key=aws_access_key, aws_secret_key=aws_secret_key,
-                                       region_name=region_name, folder="adzuna", prefix="adzuna"),
+        python_callable=download_adzuna_files,
         provide_context=True,
         dag=dag,
         retries=1
@@ -40,8 +54,7 @@ with DAG(
 
     t2 = PythonOperator(
         task_id="Download_Pole_Emploi_datas",
-        python_callable=download_files(aws_access_key=aws_access_key, aws_secret_key=aws_secret_key,
-                                       region_name=region_name, folder="pole-emploi", prefix="/tmp"),
+        python_callable=download_pole_emploi_files,
         provide_context=True,
         dag=dag,
         retries=1
@@ -65,7 +78,7 @@ with DAG(
 
     t5 = PythonOperator(
         task_id="Merge_all",
-        python_callable=append_all(),
+        python_callable=append_all,
         provide_context=True,
         dag=dag,
         retries=1
